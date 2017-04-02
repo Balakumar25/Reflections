@@ -5,6 +5,8 @@ Initialize will create config files needed to track the changes. We need those t
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+staging area helps to manage the commit more file level.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
